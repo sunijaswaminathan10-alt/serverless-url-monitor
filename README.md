@@ -117,7 +117,23 @@ serverless-url-monitor/
 ├── README.md
 └── screenshots/
     ├── lambda-logs.png
+    |---lambda-logs-1.png
+    |---lambda-config.png
     └── sns-alert.png
+
+  
+## 📷 Screenshots
+
+### ✅ Lambda Configuration
+![Lambda Config](screenshots/lambda-config.png)
+
+### ✅ Lambda Execution Logs (CloudWatch)
+![Lambda Logs](screenshots/lambda-logs.png)
+![Lambda Logs 2](screenshots/lambda-logs-1.png)
+
+### 🚨 SNS Alert Email Notification
+![SNS Alert](screenshots/sns-alert-email.png)
+
 
 ## Learning Outcomes
 
