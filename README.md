@@ -143,8 +143,4 @@ This project demonstrates a **practical serverless monitoring solution** using A
 It is suitable for monitoring websites, APIs, and cloud applications with minimal cost and operational overhead.
 
 
-## Author
-
-Your Name  
-(Sunija S /https://github.com/sunijaswaminathan10-alt )
 
